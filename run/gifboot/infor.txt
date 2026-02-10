@@ -1,0 +1,10 @@
+This is a test info screen (UEFI).
+
+Type:
+  recover  - restore *.orig backups on ESP and reboot
+  exit     - exit this program
+  reboot   - reboot immediately
+
+Note:
+  If Secure Boot is ON, unsigned EFI images may fail to load/start.
+

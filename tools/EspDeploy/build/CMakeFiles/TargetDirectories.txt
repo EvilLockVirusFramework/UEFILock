@@ -1,0 +1,4 @@
+C:/edk2/tools/EspDeploy/build/CMakeFiles/EspDeploy.dir
+C:/edk2/tools/EspDeploy/build/CMakeFiles/EspDeployExample.dir
+C:/edk2/tools/EspDeploy/build/CMakeFiles/ALL_BUILD.dir
+C:/edk2/tools/EspDeploy/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,15 @@
+  .-'      '-.            =====================================
+ /            \                    SYSTEM COMPROMISED
+|              |          =====================================
+|,  .-.  .-.  ,|
+| )(__/  \__)( |          This is a boot recovery test program.
+|/     /\     \|          If you see this screen:
+(_     ^^     _)           - Enter the password to recover boot files
+ \__|IIIIII|__/            - The system will reboot automatically
+  | \IIIIII/ |             - Press ESC to cancel
+  \          /
+   `--------`
+
+  Notes:
+  - Do not power off during recovery.
+  - Keep your password file safe (EFI\BOOT\psw.key).

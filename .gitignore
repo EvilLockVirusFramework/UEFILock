@@ -1,0 +1,6 @@
+﻿*.user
+*.suo
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini

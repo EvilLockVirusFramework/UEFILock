@@ -1,0 +1,10 @@
+^C:\EDK2\TOOLS\ESPDEPLOY\BUILD\CMAKEFILES\4C512891EDFFAF94163D43731D50238E\GENERATE.STAMP.RULE
+setlocal
+C:\Strawberry\c\bin\cmake.exe -SC:/edk2/tools/EspDeploy -BC:/edk2/tools/EspDeploy/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/edk2/tools/EspDeploy/build/EspDeploy.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
