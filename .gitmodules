@@ -1,6 +1,6 @@
 [submodule "acpica"]
-\tpath = acpica
-\turl = https://github.com/acpica/acpica.git
+  path = acpica
+  url = https://github.com/acpica/acpica.git
 [submodule "edk2"]
-\tpath = edk2
-\turl = https://gitee.com/mirrors/edk2.git
+  path = edk2
+  url = https://gitee.com/mirrors/edk2.git
