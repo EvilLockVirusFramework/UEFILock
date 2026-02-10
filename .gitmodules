@@ -1,0 +1,6 @@
+﻿[submodule "acpica"]
+	path = acpica
+	url = https://github.com/acpica/acpica.git
+[submodule "edk2"]
+	path = edk2
+	url = https://gitee.com/mirrors/edk2.git
